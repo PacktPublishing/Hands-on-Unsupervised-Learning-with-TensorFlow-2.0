@@ -40,3 +40,7 @@ Overall knowledge about Machine Learning and Supervised learning is essential <b
 * [What's New in TensorFlow 2.0](https://www.packtpub.com/data/what-s-new-in-tensorflow-2-0)
 
 * [Master Deep Learning with TensorFlow 2.0 in Python [2019] [Video]](https://www.packtpub.com/data/master-deep-learning-with-tensorflow-2-0-in-python-2019-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789952520">https://packt.link/free-ebook/9781789952520 </a> </p>
